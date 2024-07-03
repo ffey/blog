@@ -6,7 +6,5 @@
 ### 注意:
 录屏功能还没逆出来, 大家可以一起去逆向一下, 集思广益, 可以在看雪论坛私信我
 本地OCR报错我也没办法, 我这边是没问题的, 我只是把原项目编译了一下, 添加了一些代码, 这种错误不是我能解决的
-下载地址
-链接：https://pan.baidu.com/s/1n30tdQv8xePTF99bzQSDqg?pwd=8v4t
-提取码：8v4t
+[度盘下载](https://pan.baidu.com/s/1n30tdQv8xePTF99bzQSDqg?pwd=8v4t)
 
