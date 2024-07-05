@@ -1,8 +1,8 @@
-# <font color="blue"><center>MarkdownPad安装与破解</center></font>  
-<font color='red'><font size="5"><center>作者：七记</center></font></font>
-## <font color="blue"><center>MarkdownPad安装</center></font>
+# MarkdownPad安装与破解  
+## 作者：七记
+## MarkdownPad安装
 - 首先打开markdownpad官网
-<center>[官网在此](http://markdownpad.com/)</center>  
+[官网在此](http://markdownpad.com/)<
 ---
 - 点击Download下载安装包  
 ![xz.png](https://s2.loli.net/2024/07/05/NXrt5VOh16cbKRu.png)  
@@ -10,13 +10,23 @@
 - 安装完以后下去拿不着急打开  
 - 我们先去激活
 - ---
-# <font color='blue'><center>MarkdownPad破解</center></font> 
+# MarkdownPad破解
 + MarkdownPad的破解信息可以去网上找  
 	+ 如果懒得在网上找可以用我找到的  
 <font color='blue'>上面的填邮箱:Soar360@live.com  
-下面的填key:GBPduHjWfJU1mZqcPM  3BikjYKF6xKhlKIys3i1MU2eJ  HqWGImDHzWdD6xhMNLG  VpbP2M5SN6bnxn2kSE8q HqNY5QaaRxmO3YSMHxlv2 EYpjdwLcPwfeTG7kUdnhKE 0vVy4RidP6Y2  
-wZ0q74f47fzs Zo45JE2hfQBFi2O9Jldj  p1mW8HUpTtLA2a5/sQytXJUQl/QKO  
-0jUQY4pa5CCx20sV1C lOTZtAGngSOJtIO FXK599sBr5aIE FyH0K7H 4BoNMiiDMnxt1rD8Vb/ikJdhG  
+---
+下面的填key:GBPduHjWfJU1mZqcPM  
+3BikjYKF6xKhlKIys3i1MU2eJ  
+HqWGImDHzWdD6xhMNLG  
+VpbP2M5SN6bnxn2kSE8q  
+HqNY5QaaRxmO3YSMHxlv2  
+EYpjdwLcPwfeTG7kUdnhKE  
+0vVy4RidP6Y2  
+wZ0q74f47fzs Zo45JE2hfQBFi2O9Jldj  
+p1mW8HUpTtLA2a5/sQytXJUQl/QKO  
+0jUQY4pa5CCx20sV1C lOTZtAGngSOJtIO FXK599sBr5aIE  
+FyH0K7H  
+4BoNMiiDMnxt1rD8Vb/ikJdhG  
 MMQr0R4B+L3nWU97ea  
 VPTRKfWGDE8/eAg  
 KzpGwrQQoDh+n  
