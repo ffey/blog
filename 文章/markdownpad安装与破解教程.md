@@ -13,9 +13,9 @@
 # MarkdownPad破解
 + MarkdownPad的破解信息可以去网上找  
 	+ 如果懒得在网上找可以用我找到的  
-<font color='blue'>上面的填邮箱:Soar360@live.com  
+<font color='blue'>上面的填邮箱:`Soar360@live.com`  
 ---
-下面的填key:GBPduHjWfJU1mZqcPM  
+下面的填key:```GBPduHjWfJU1mZqcPM  
 3BikjYKF6xKhlKIys3i1MU2eJ  
 HqWGImDHzWdD6xhMNLG  
 VpbP2M5SN6bnxn2kSE8q  
@@ -30,7 +30,7 @@ FyH0K7H
 MMQr0R4B+L3nWU97ea  
 VPTRKfWGDE8/eAg  
 KzpGwrQQoDh+n  
-zX1xoVQ8NAuH+s4UcSeQ==</font>  
+zX1xoVQ8NAuH+s4UcSeQ==</font>```  
 出现这样的图就行了
 ![20171024110634156.png](https://s2.loli.net/2024/07/05/xYSEITLO2opvdh5.png)  
 这样就结束了  
