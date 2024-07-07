@@ -7,3 +7,4 @@
 |QQ截屏独立版|https://gitee.com/xiaomao542/blog/blob/master/%E6%96%87%E7%AB%A0/QQ%E6%88%AA%E5%B1%8F%E7%8B%AC%E7%AB%8B%E7%89%88.md|https://github.com/ffey/blog/blob/1/%E6%96%87%E7%AB%A0/QQ%E6%88%AA%E5%B1%8F%E7%8B%AC%E7%AB%8B%E7%89%88.md|
 |marktext安装、汉化和设置教程|https://gitee.com/xiaomao542/blog/blob/master/%E6%96%87%E7%AB%A0/marktext%E5%AE%89%E8%A3%85%E3%80%81%E6%B1%89%E5%8C%96%E5%92%8C%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B.md|https://github.com/ffey/blog/blob/master/%E6%96%87%E7%AB%A0/marktext%E5%AE%89%E8%A3%85%E3%80%81%E6%B1%89%E5%8C%96%E5%92%8C%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B.md|
 
+
